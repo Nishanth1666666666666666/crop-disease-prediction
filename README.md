@@ -1,2 +1,0 @@
-# crop-disease-prediction
-optional
